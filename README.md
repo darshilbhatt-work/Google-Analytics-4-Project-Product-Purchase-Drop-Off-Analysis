@@ -11,7 +11,7 @@ The goal is to analyse the key steps customer takes before purchase hence I have
 ## 🛠 Tools Used
 - Google Analytics 4 (Data Exploration & Report Creation)  
 - Canva (Visual Report Design)  
-- Notion (Project Documentation)  
+- GITHUB (Project Documentation)  
 - ChatGPT (Project Idea Generation)
 
 - ---
